@@ -1,4 +1,3 @@
-remote_theme : poole/hyde
 
 # Dependencies
 markdown:         redcarpet
@@ -27,3 +26,4 @@ version:          2.1.0
 github:
   repo:           https://github.com/poole/hyde
   
+remote_theme : poole/hyde
