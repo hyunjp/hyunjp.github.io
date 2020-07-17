@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hyunjong Park"
+  name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am graduate student in <b>Yonsei Univ, Seoul, Korea</b>, advised by <b><a href="http://bsham.github.io/" target="_blank">Professor Bumsub Ham</a></b>, and I'm part of SLV Lab (Smart Learning & Vision Lab). My research interests are in <u>Computer Vision</u> and <u>Deep Learning</u>."
-  location         : "Lab Office: 723B, Engineering Hall B"
-  email            : "hyunpark@yonsei.ac.kr"
+  bio              : "I am an **amazing** person."
+  location         : "Somewhere"
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
