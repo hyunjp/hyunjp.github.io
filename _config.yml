@@ -14,10 +14,6 @@ description:      'A brazen two-column <a href="http://jekyllrb.com" target="_bl
 url:              "https://hyunjp.github.io"
 baseurl:          ""
 
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-
 paginate:         5
 
 # Custom vars
