@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Hyunjong Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am graduate student in **Yonsei Univ, Seoul, Korea**, advised by **Professor Bumsub Ham[http://bsham.github.io/]**, and I'm part of SLV Lab (Smart Learning & Vision Lab). My research interests are in <U>Computer Vision</U> and <U>Deep Learning</U>"
   location         : "Somewhere"
   email            :
   links:
